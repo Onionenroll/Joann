@@ -1,0 +1,6 @@
+$ git config --global Joanne.yangzx@gmail.com
+$ git status #until branch master
+$ git remote add origin <link>
+$ git clone <link>
+$ cd report_scraper
+$PYTHONPATH
